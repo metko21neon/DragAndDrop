@@ -48,9 +48,9 @@ them back to the initial list. All items presented in the first field and they g
 tree. 
 
 Actions:
-	● When user does dragndrop of an item from the initial list to basket: item deleted from the list 
-		and appear in basket
-	● User remove items from the basket and return back to the initial list
+When user does dragndrop of an item from the initial list to basket: item deleted from the list 
+	and appear in basket
+User remove items from the basket and return back to the initial list
 	
 #### Part 2.
 
@@ -58,5 +58,5 @@ Capacity to submit the basket to the server side API. Also current basket conten
 
 The server response for validation of the basket content can be positive or negative response to 
 validation request:
-	● If answer is positive, “Submit” becomes available.
-	● If answer is negative, “Submit” remains unavailable.
+If answer is positive, “Submit” becomes available.
+If answer is negative, “Submit” remains unavailable.
