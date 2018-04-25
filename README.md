@@ -50,7 +50,7 @@ tree.
 Actions:
 
 When user does dragndrop of an item from the initial list to basket: item deleted from the list 
-	and appear in basket;
+	and appear in basket;<br>
 User remove items from the basket and return back to the initial list.
 	
 #### Part 2.
@@ -60,5 +60,5 @@ Capacity to submit the basket to the server side API. Also current basket conten
 The server response for validation of the basket content can be positive or negative response to 
 validation request:
 
-If answer is positive, “Submit” becomes available;
+If answer is positive, “Submit” becomes available; <br>
 If answer is negative, “Submit” remains unavailable.
